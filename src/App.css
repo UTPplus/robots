@@ -10,4 +10,6 @@ src: local('electrical Regular'), url('electrical.woff') format('woff');
 h1{
 	font-family: 'electrical Regular';
 	color: white;
+	
 }
+

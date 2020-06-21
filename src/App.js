@@ -35,7 +35,7 @@ class App extends React.Component{
 
 	(
 		<div className='tc'>
-			<h1 className='tracked-mega f1'>RoboFriends</h1>
+			<h1 className='tracked-mega f1'>Robots</h1>
 
 			<SearchBox onSearchChange={this.onSearchChange}/>
 
